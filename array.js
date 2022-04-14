@@ -40,3 +40,5 @@ allStudent.forEach((item) => console.log('FullName: ', item.firstName, item.seco
 
 // js is case sensitive Student and student is not same;
 //console.log(student1);
+//jokhon eki rokom koyekta  kaj eki jaygay hoy sekhane loop use korte hoy
+//Jokhon  eki rokom koyekta kaj vinno vinno jaygay use korte hoy tokhon function use hoy
