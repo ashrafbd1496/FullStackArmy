@@ -19,7 +19,9 @@ while(true){
 	if (num == 99) break;
 }
 */
-
-do{
+/**
+ * do{
 	console.log('Print this line at least one time');
-}while(false)
+}while(false) //we can make it infinity using false/true.
+
+ */
